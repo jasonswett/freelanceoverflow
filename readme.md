@@ -12,9 +12,9 @@ If at any point your conduct or work is deemed unsatisfactory, a referring membe
 If you don't have a specific member in mind, you can share overflow work via GitHub issues. Each opportunity should be represented as own issue and should contain detailed information about the work, client, commision rate (if any), and any other pertinent information. Members are also encourged to communicate directly with other members, sidestepping the GitHub issues approach, when it makes sense.
 
 ## Member Matrix
-| Name                                           | Endorsed By        | Min Hourly | Core Languages               | Focal Areas                             
-| ---------------------------------------------- | ------------------ | ---------- | ---------------------------- | ---------------------------------------------- 
-| [Rocky Madden](https://github.com/rockymadden) | Seed member        | $100       | JavaScript, Scala            | AI, ML, NLP, APIs, backend programming
-| [Christopher Karper](https://github.com/CKarper) |                  | $95        | JS, Node, .NET, Web Stuff    | Full Stack Web, API
+| Name                                             | Endorsed By               | Min Hourly | Core Languages               | Focal Areas                             
+| ------------------------------------------------ | ------------------------- | ---------- | ---------------------------- | ---------------------------------------------- 
+| [Rocky Madden](https://github.com/rockymadden)   | Seed member               | $100       | JavaScript, Scala            | AI, ML, NLP, APIs, backend programming
+| [Christopher Karper](https://github.com/CKarper) | Rocky Madden, seed member | $95        | JS, Node, .NET               | Full Stack Web, API, Web Stuff
 ## Attribution
 * Logo created by [Pavel Pavlov](http://thenounproject.com/zka11/) from the Noun Project
