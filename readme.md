@@ -9,7 +9,7 @@ Create a pull request with your information added to the member matrix. Once the
 If at any point your conduct or work is deemed unsatisfactory, a referring member may request your removal from the network. The referring member should create a pull request with your information removed from the member matrix (along with an explaination). Should at least three members be in support of your removal, the pull request will be accepted and you will no longer be a member of the network.
 
 ### Sharing Work
-If you don't have a specific member in mind, you can share overflow work via GitHub issues. Each opportunity should be represented as its own issue and should contain detailed information about the work, client, commision rate (if any), and any other pertinent information. Members are also encourged to communicate directly with other members, sidestepping the GitHub issues approach, when it makes sense.
+If you don't have a specific member in mind, you can share overflow work via GitHub issues. Each opportunity should be represented as its own issue and should contain detailed information about the work, client, commision rate (if any), and any other pertinent information. Members are also encouraged to communicate directly with other members, sidestepping the GitHub issues approach, when it makes sense.
 
 ## Member Matrix
 | Name                                           | Endorsed By        | Min Hourly | Core Languages               | Focal Areas
