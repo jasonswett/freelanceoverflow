@@ -15,6 +15,6 @@ If you don't have a specific member in mind, you can share overflow work via Git
 | Name                                           | Endorsed By        | Min Hourly | Core Languages               | Focal Areas                             
 | ---------------------------------------------- | ------------------ | ---------- | ---------------------------- | ---------------------------------------------- 
 | [Rocky Madden](https://github.com/rockymadden) | Seed member        | $100       | JavaScript, Scala            | AI, ML, NLP, APIs, backend programming
-
+| [Christopher Karper](https://github.com/CKarper) |                  | $95        | JS, Node, .NET, Web Stuff    | Full Stack Web, API
 ## Attribution
 * Logo created by [Pavel Pavlov](http://thenounproject.com/zka11/) from the Noun Project
