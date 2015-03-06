@@ -9,7 +9,7 @@ The network does not facilitate racing to the bottom on price. All members are t
 Members are required to have a strong GitHub commit/issue history to examine. This is the core metric used to gauge your technical skills.
 
 ### Communication Skills
-Members are required to have solid communication skills. Applicable public social profiles will be examined (e.g. GitHub, Twitter, Hacker News, Dribbble). Additionally, if you do not have at least one member to endorse your interpersonal communication skills, you will be asked to have an informal verbal and/or written conversation with a member (this is also a chance to network with your fellow members).
+Members are required to have solid communication skills. Applicable public social profiles will be examined (e.g. GitHub, Twitter, Hacker News, Dribbble). Additionally, if you do not have at least one member to endorse your interpersonal communication skills, you will be asked to have an informal verbal conversation with a member (this is also a chance to network with your fellow members).
 
 ## Processes
 ### Becoming a Member <sub><sup>(Done via Pull Requests)</sup></sub>
