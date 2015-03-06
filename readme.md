@@ -2,8 +2,11 @@
 A self-governed network of freelancers who refer each other overflow work, commonly on commision. All members are endorsed by at least three other members of said network and must maintain a stellar track record or risk being kicked out. Members are accepted based upon not only their technical skills, but also their communication skills, project management abilities, and overall professional reputation.
 
 ## Requirements
-###Minimum Hourly Rates
+### Minimum Hourly Rates
 The network does facilitate racing to the bottom on price. All members are talented developers and the network requires that members have an hourly rate which justifies said talent. This helps ensure that your rates match up with other developers on the network when you refer them work. As such, members are only accepted if they meet the minimum requirement of billing at a rate of __at least__ $75/hr for their own clients.
+
+### GitHub Presence
+Members are required to have a strong GitHub commit history to examine. We also examine your social interactions.
 
 ## Processes
 ### Becoming a Member
