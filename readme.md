@@ -1,5 +1,5 @@
 # Freelance Overflow ![members](https://img.shields.io/badge/members-3-blue.svg) ![min hourly](https://img.shields.io/badge/hourly min-$100-brightgreen.svg)
-A self-governed network of freelancers who refer each other overflow work, commonly on commision. All members are endorsed by at least three other members of said network and must maintain a stellar track record or risk being removed. Members are accepted based upon not only their technical skills, but also their communication skills, project management abilities, and overall professional reputation.
+A self-governed network of freelancers who refer each other overflow work, commonly on commision. All members are endorsed by at least three other members of said network and must maintain a stellar track record or risk being removed. Members are accepted based upon not only their technical skills, but also their communication skills and overall professional reputation.
 
 ## Requirements
 ### GitHub Presence
