@@ -9,7 +9,7 @@ The network does not facilitate racing to the bottom on price. All members are t
 Members are required to have a strong GitHub commit/issue history to examine. This is the core metric used to gauge your technical skills.
 
 ### Communication Skills
-Members are required to have solid communication skills. In addition to your GitHub communications, we will also examine applicable public communications (e.g. Twitter, Hacker News, Dribbble). Lastly, if you do not have at least one member to vouch for your interpersonal communication skills, you will be asked to have an informal verbal and/or written conversation with a member. This is also a chance to network with your fellow members.
+Members are required to have solid communication skills. Applicable public social profiles will be examined (e.g. GitHub, Twitter, Hacker News, Dribbble). Additionally, if you do not have at least one member endorse your interpersonal communication skills, you will be asked to have an informal verbal and/or written conversation with a member (this is also a chance to network with your fellow members).
 
 ## Processes
 ### Becoming a Member <sub><sup>(Done via Pull Requests)</sup></sub>
@@ -18,7 +18,7 @@ To start the process:
 * Create a pull request with your information added to the member matrix and the commit description `Added @username as member.`
 * In the extended details of your pull request include:
   * Social profiles which allow us to examine your communication style/skills (e.g. Twitter, Hacker News, Dribbble).
-  * Lacking a network member who can back your interpersonal communication skills, include information about when you can informally speak with a fellow member to verify said skills. If you do not have a public email in your GitHub profile, please either specify one or contact a member with it.
+  * Lacking a network member who can endorse your interpersonal communication skills, include information about when you can informally speak with a fellow member to verify said skills. If you do not have a public email in your GitHub profile, please either specify one or contact a member with it.
 
 Once the pull request has been endorsed by at least three members (via comments on said pull request), your pull will be merged and you a full-fledged member of the network.
 
