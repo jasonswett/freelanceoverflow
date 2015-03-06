@@ -16,7 +16,7 @@ If you don't have a specific member in mind, you can share overflow work via Git
 | ------------------------------------------------ | ------------------------- | ------------ | -----------
 | [Rocky Madden](https://github.com/rockymadden)   | Seed member               | $100         | JavaScript, Scala, AI, ML, NLP, APIs, backend programming
 | [Christopher Karper](https://github.com/CKarper) | Rocky Madden, seed member | $95          | JS, Node, .NET, Web Stuff, Full Stack Web, API
-| [Jonatan Santos](https://github.com/joridos) |                  | $100        | JavaScript, Nodejs, Shell Script, Full Stack, PHP, Magento, Wordpress, Ruby on Rails
+| [Jonatan Santos](https://github.com/joridos)     | Rocky Madden, seed member | $100         | JavaScript, Nodejs, Shell Script, Full Stack, PHP, Magento, Wordpress, Ruby on Rails
 
 ## Attribution
 * Logo created by [Pavel Pavlov](http://thenounproject.com/zka11/) from the Noun Project
