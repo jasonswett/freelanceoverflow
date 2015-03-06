@@ -32,9 +32,9 @@ If you don't have a specific member in mind, you can share overflow work via Git
 ## Member Matrix
 | Name                                             | Endorsed By               | Focal Areas
 | ------------------------------------------------ | ------------------------- | -----------
-| [Rocky Madden](https://github.com/rockymadden)   | Seed member               | JavaScript, Scala, AI, ML, NLP, APIs, backend programming
-| [Christopher Karper](https://github.com/CKarper) | Rocky Madden, seed member | JS, Node, .NET, Web Stuff, Full Stack Web, API
-| [Jonatan Santos](https://github.com/joridos)     | Rocky Madden, seed member | JavaScript, Nodejs, Shell Script, Full Stack, PHP, Magento, Wordpress, Ruby on Rails
+| [Rocky Madden](https://github.com/rockymadden)   | Seed member               | JavaScript, Node, Scala, AI, ML, NLP, APIs, backend programming
+| [Christopher Karper](https://github.com/CKarper) | Rocky Madden, seed member | JavaScript, Node, .NET, Web Stuff, Full Stack Web, API
+| [Jonatan Santos](https://github.com/joridos)     | Rocky Madden, seed member | JavaScript, Node, Shell Script, Full Stack, PHP, Magento, Wordpress, Ruby on Rails
 
 ## Organizer Matrix
 | Name                                             | Email
