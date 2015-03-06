@@ -12,7 +12,7 @@ Members are required to have solid communication skills. In addition to your Git
 The network does not facilitate racing to the bottom on price. All members are talented developers and the network requires that members have an hourly rate which justifies said talent. This helps ensure that your rates match up with other developers on the network when you refer them work. As such, members are only accepted if they meet the minimum requirement of billing at a rate of __at least__ $100/hr for their own clients.
 
 ## Processes
-### Becoming a Member
+### Becoming a Member <sub><sup>(Done via Pull Requests)</sup></sub>
 To start the process:
 
 * Create a pull request with your information added to the member matrix and the commit description `Added @username as member.`
@@ -22,7 +22,7 @@ To start the process:
 
 Once the pull request has been endorsed by at least three members (via comments on said pull request), your pull will be merged and you a full-fledged member of the network.
 
-### Being Removed as a Member
+### Being Removed as a Member <sub><sup>(Done via Pull Requests)</sup></sub>
 If at any point a member's conduct/work is deemed unsatisfactory, any referring member may request their removal from the network. To start the process:
 
 * Create a pull request with the offending member's information removed from the member matrix and the commit description `Removed @username as member.`
@@ -31,7 +31,7 @@ If at any point a member's conduct/work is deemed unsatisfactory, any referring 
 
 Should at least three members be in support of the removal, the pull request will be accepted and the offending member will no longer be part of the network.
 
-### Sharing Work
+### Sharing Work <sub><sup>(Done via Issues)</sup></sub>
 If you don't have a specific member in mind, you can share overflow work via GitHub issues. Each opportunity should be represented as its own issue and should contain detailed information about the work, client, commision rate (if any), and any other pertinent information. Members are also encouraged to communicate directly with other members, sidestepping the GitHub issues approach, when it makes sense.
 
 ## Member Matrix
