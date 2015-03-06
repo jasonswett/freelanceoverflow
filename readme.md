@@ -13,7 +13,11 @@ The network does facilitate racing to the bottom on price. All members are talen
 
 ## Processes
 ### Becoming a Member
-Create a pull request with your information added to the member matrix. Once the pull request has been endorsed by at least three members (via comments on said pull request), your pull will be merged and you a full-fledged member of the network.
+Create a pull request with your information added to the member matrix. Additionally, in the details of your pull request include:
+
+* Social profiles which allow us to examine your communication style/skills (e.g. Twitter, Hacker News, Dribbble).
+
+Once the pull request has been endorsed by at least three members (via comments on said pull request), your pull will be merged and you a full-fledged member of the network.
 
 ### Being Kicked Out
 If at any point your conduct or work is deemed unsatisfactory, a referring member may request your removal from the network. The referring member should create a pull request with your information removed from the member matrix (along with an explaination). Should at least three members be in support of your removal, the pull request will be accepted and you will no longer be a member of the network.
