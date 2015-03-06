@@ -1,4 +1,4 @@
-# Freelance Overflow
+# Freelance Overflow ![members](https://img.shields.io/badge/members-3-brightgreen.svg)
 A self-governed network of freelancers who refer each other overflow work, commonly on commision. All members are endorsed by at least three other members of said network and must maintain a stellar track record or risk being kicked out. Members are accepted based upon not only their technical skills, but also their communication skills, project management abilities, and overall professional reputation.
 
 ## Processes
