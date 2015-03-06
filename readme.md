@@ -6,7 +6,10 @@ A self-governed network of freelancers who refer each other overflow work, commo
 The network does facilitate racing to the bottom on price. All members are talented developers and the network requires that members have an hourly rate which justifies said talent. This helps ensure that your rates match up with other developers on the network when you refer them work. As such, members are only accepted if they meet the minimum requirement of billing at a rate of __at least__ $100/hr for their own clients.
 
 ### GitHub Presence
-Members are required to have a strong GitHub commit history to examine. We also examine your social interactions.
+Members are required to have a strong GitHub commit history to examine. Your public communications are also examined.
+
+### Communication Skills
+If you do not have at least one member to vouch for your communication skills, you will be asked to have an informal verbal and written conversation with a member (likely @rockymadden).
 
 ## Processes
 ### Becoming a Member
